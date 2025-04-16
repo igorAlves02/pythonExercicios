@@ -1,4 +1,4 @@
-from scripts.transacao import Transacao
+from transacao import Transacao
 
 class Carteira:
     def __init__(self):
