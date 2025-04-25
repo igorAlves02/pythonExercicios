@@ -1,4 +1,4 @@
-from RoboExplorador import RoboExplorador
+from robo_explorador import RoboExplorador
 
 class RelatorioDeMissao(RoboExplorador):
     def __init__(self, nome: str, planeta_destino: str, energia: int, leituras: tuple):
